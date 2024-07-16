@@ -1,4 +1,3 @@
 # demo
 this is my first git repository.<br>
-author= sukaina shoaib
-hello
+author= sukaina shoaib.
